@@ -1,0 +1,76 @@
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\bin\Debug\QLBanHang.exe
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.exe
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.Main.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmLogin.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmHoaDon.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmDoiMatKhau.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmDanhSachNhanVien.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmKhoHang.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmKhongDuQuyen.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmDonBanHang.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmThongTin.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmNhapHang.resources
+D:\LT NET\BT\WindowsFormsTEST\QLBanHang\obj\Debug\QLBanHang.frmDaBan.resources
+D:\LT NET\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.exe
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\LT NET\QLBanHang\bin\Debug\QLBanHang.exe
+D:\LT NET\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmDaBan.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmDoiMatKhau.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmDonBanHang.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmHoaDon.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmKhoHang.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmKhongDuQuyen.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmLogin.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmThongTin.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.Main.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmNhapHang.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmSuaSach.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmNhanVien.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmthemSoLuong.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmSuaNhanVien.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmmSuaNhanVien.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmBaoCao.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmXoaDuLieu.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmBaoCaoDoanhThu.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.frmSuaGia.resources
+D:\LT NET\QLBanHang\obj\Debug\QLBanHang.GUI.frmKhachHang.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.exe
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmBaoCao.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmBaoCaoDoanhThu.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.GUI.frmKhachHang.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmmSuaNhanVien.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmSuaGia.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmSuaNhanVien.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmDaBan.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmDoiMatKhau.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmDonBanHang.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmHoaDon.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmKhoHang.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmKhongDuQuyen.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmLogin.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmNhanVien.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmSuaSach.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmThongTin.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmXoaDuLieu.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.Main.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmNhapHang.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.frmthemSoLuong.resources
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\bin\Debug\QLBanHang.exe
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\_TN94\Lập trình .NET 1\Nhom 08\QLBanHang\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
